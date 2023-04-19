@@ -63,6 +63,10 @@
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
             </a>
+            <!-- Nestjs -->
+            <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40"/> 
+            </a>
         </p>
     </div>
     <div style="flex: 1;">
