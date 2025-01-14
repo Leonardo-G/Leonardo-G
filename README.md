@@ -59,8 +59,8 @@
                 <img src="https://static.cdnlogo.com/logos/e/67/expo.svg" alt="expo" width="40" height="40">
             </a>
             <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-                <img src="https://static.cdnlogo.com/logos/r/18/react-native.svg">
-            |</a>
+                <img src="https://static.cdnlogo.com/logos/r/18/react-native.svg" alt="react-native" width="40" height="40">
+            </a>
         </p>
     </div>
     <div style="flex: 1;">
@@ -81,6 +81,10 @@
             <!-- FIREBASE -->
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+            </a>
+            <!-- POSTGRESQL -->
+            <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                <img src="https://static.cdnlogo.com/logos/p/93/postgresql.svg" alt="postgresql" width="40" height="40">
             </a>
             <!-- GIT -->
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
